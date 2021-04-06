@@ -8,6 +8,8 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
           appBar: AppBar(title: Text('My first  App')),       
           body: Text('This is my text')) ,       
+		    appBar: AppBar(title: Text('My first  App')),       
+          body: Text('This is my text')) ,
     );   
   }
 }
